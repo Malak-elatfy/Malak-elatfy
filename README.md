@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Malak El-Atfy!
 
-[cite_start]An award-winning **Artificial Intelligence & Innovation student** at Horus University, Egypt (HUE) (Expected Graduation: 2029)[cite: 5, 9, 10, 13]. [cite_start]I am a passionate **Data Science, Automation, and IoT Developer** dedicated to bridging the gap between intelligent algorithms, automated workflows, and edge computing to solve real-world challenges[cite: 5, 6, 7].
+[cite_start]An award-winning **Artificial Intelligence & Innovation student** at Horus University, Egypt (HUE) (Expected Graduation: 2029). [cite_start]I am a passionate **Data Science, Automation, and IoT Developer** dedicated to bridging the gap between intelligent algorithms, automated workflows, and edge computing to solve real-world challenges
 
-[cite_start]With a strong foundation in scientific research and technical entrepreneurship, I have founded teams and engineered solutions that secured top tracks in prestigious national and international competitions (NASA, RoboCup, COP27, ISEF)[cite: 5, 6].
+[cite_start]With a strong foundation in scientific research and technical entrepreneurship, I have founded teams and engineered solutions that secured top tracks in prestigious national and international competitions (NASA, RoboCup, COP27, ISEF)
 
 ---
 
