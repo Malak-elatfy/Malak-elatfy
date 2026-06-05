@@ -13,7 +13,7 @@ With a strong foundation in scientific research and technical entrepreneurship, 
 | :--- | :--- |
 | **📊 Data Science & AI** | Predictive Modeling, Machine Learning Algorithms, Deep Learning Basics, AI for Medical Applications|
 | **🤖 Automation & Frameworks** | Agentic AI Workflows, n8n Framework, Spyder, Python Core Programming  |
-| **🔌 IoT & Embedded Systems** | Microcontrollers (ESP32-C3, NodeMCU, Arduino), Mesh Networking, Sensor Integration, C/C++  |
+| **🔌 IoT & Embedded Systems** | Microcontrollers (NodeMCU, Arduino), Mesh Networking, Sensor Integration, C/C++  |
 | **💼 Business & Innovation** | Business Model Canvas (BMC), Go-To-Market Strategy, Design Thinking, Tech Pitching  |
 
 ---
@@ -32,5 +32,3 @@ With a strong foundation in scientific research and technical entrepreneurship, 
 
 * 💼 **LinkedIn:** [malak-el-atfy](https://www.linkedin.com/in/malak-el-atfy-168915328) 
 * 📧 **Email:** [malakelatfy75@gmail.com](mailto:malakelatfy75@gmail.com) 
-
-[cite_start]_"Leveraging Data Science, Automation, and IoT to drive real-world, sustainable value."_ 🚀 [cite: 7]
